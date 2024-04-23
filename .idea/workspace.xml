@@ -5,51 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e45f8534-8066-419f-a860-2e5ab3b5f9eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_CW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark_series/puzzle_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark_series/puzzle_1280.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark_series/puzzle_160.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark_series/puzzle_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark_series/puzzle_2560.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark_series/puzzle_320.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark_series/puzzle_40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark_series/puzzle_640.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/benchmark_series/puzzle_80.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze10_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze10_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze10_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze10_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze10_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze15_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze15_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze15_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze15_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze15_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze20_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze20_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze20_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze20_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze20_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze25_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze25_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze25_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze25_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze25_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze30_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze30_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze30_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze30_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/maze30_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PathFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo_CW/InputParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo_CW/InputParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo_CW/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo_CW/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/puzzle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713791591897</updated>
-      <workItem from="1713791592976" duration="16310000" />
+      <workItem from="1713791592976" duration="43429000" />
     </task>
     <servers />
   </component>
